@@ -86,7 +86,7 @@ button:focus {
   position: absolute;
   font-size: 25px;
   right: 100px;
-  top: -100px;
+  top: -130px;
 }
 
 #current_word {
